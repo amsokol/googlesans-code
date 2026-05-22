@@ -1,7 +1,7 @@
 {
 glyphname = acircumflexgrave;
-kernLeft = a_left;
-kernRight = n_right;
+kernLeft = adieresis_left;
+kernRight = adieresis_right;
 layers = (
 {
 layerId = "B7DB719C-51CF-4BC3-BA18-7A6A1AAC666B";
@@ -76,7 +76,7 @@ pos = (568,70);
 ref = circumflexcomb_gravecomb;
 }
 );
-width = 1117;
+width = 1072;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -118,7 +118,7 @@ pos = (613,54);
 ref = circumflexcomb_gravecomb;
 }
 );
-width = 1187;
+width = 1177;
 }
 );
 unicode = 7847;

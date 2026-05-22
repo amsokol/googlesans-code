@@ -1,6 +1,6 @@
 {
 glyphname = ohornhookabove;
-kernLeft = o_left;
+kernLeft = odieresis_left;
 kernRight = ohorn_right;
 layers = (
 {

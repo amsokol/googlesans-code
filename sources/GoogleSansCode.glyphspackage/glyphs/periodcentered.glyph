@@ -42,6 +42,20 @@ ref = period;
 width = 1200;
 },
 {
+background = {
+shapes = (
+{
+angle = 180;
+pos = (1023,1550);
+ref = l;
+},
+{
+angle = 180;
+pos = (532,1550);
+ref = periodcentered;
+}
+);
+};
 layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
 shapes = (
 {
@@ -72,6 +86,21 @@ ref = period;
 width = 612;
 },
 {
+background = {
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (1223,1595);
+ref = l;
+},
+{
+angle = 180;
+pos = (632,1685);
+ref = periodcentered;
+}
+);
+};
 layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 shapes = (
 {

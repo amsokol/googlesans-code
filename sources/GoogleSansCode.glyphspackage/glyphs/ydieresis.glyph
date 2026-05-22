@@ -1,7 +1,7 @@
 {
 glyphname = ydieresis;
-kernLeft = y_left;
-kernRight = v_right;
+kernLeft = ydieresis_left;
+kernRight = ydieresis_right;
 layers = (
 {
 layerId = "B7DB719C-51CF-4BC3-BA18-7A6A1AAC666B";
@@ -101,11 +101,11 @@ shapes = (
 ref = y;
 },
 {
-pos = (581,0);
+pos = (585,0);
 ref = dieresiscomb;
 }
 );
-width = 1141;
+width = 1149;
 }
 );
 unicode = 255;

@@ -1,6 +1,6 @@
 {
 glyphname = abrevehookabove;
-kernLeft = a_left;
+kernLeft = adieresis_left;
 kernRight = n_right;
 layers = (
 {
@@ -78,7 +78,7 @@ pos = (578,60);
 ref = brevecomb_hookabovecomb;
 }
 );
-width = 1117;
+width = 1072;
 },
 {
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
@@ -127,7 +127,7 @@ pos = (613,44);
 ref = brevecomb_hookabovecomb;
 }
 );
-width = 1187;
+width = 1177;
 }
 );
 unicode = 7859;

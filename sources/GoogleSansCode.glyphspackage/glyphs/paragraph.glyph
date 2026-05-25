@@ -1,5 +1,6 @@
 {
 glyphname = paragraph;
+kernLeft = paragraph_left;
 layers = (
 {
 guides = (

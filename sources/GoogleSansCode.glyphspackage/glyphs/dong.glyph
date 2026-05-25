@@ -1,5 +1,7 @@
 {
 glyphname = dong;
+kernLeft = dong_left;
+kernRight = dong_right;
 layers = (
 {
 background = {

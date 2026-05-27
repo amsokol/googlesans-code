@@ -466,18 +466,6 @@ name = top;
 pos = (380,1460);
 }
 );
-background = {
-shapes = (
-{
-alignment = -1;
-ref = l;
-},
-{
-pos = (591,-90);
-ref = periodcentered;
-}
-);
-};
 layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 shapes = (
 {

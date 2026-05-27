@@ -76,7 +76,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (491,0);
+pos = (511,0);
 ref = periodcentered;
 }
 );
@@ -86,14 +86,15 @@ width = 781;
 layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
 shapes = (
 {
+alignment = -1;
 ref = l;
 },
 {
-pos = (438,-16);
+pos = (526,-18);
 ref = periodcentered;
 }
 );
-width = 779;
+width = 834;
 },
 {
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
@@ -103,11 +104,11 @@ alignment = -1;
 ref = l;
 },
 {
-pos = (495,-64);
+pos = (570,-71);
 ref = periodcentered;
 }
 );
-width = 914;
+width = 993;
 },
 {
 background = {

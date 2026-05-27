@@ -119,7 +119,7 @@ background = {
 shapes = (
 {
 alignment = -1;
-pos = (532,402);
+pos = (526,402);
 ref = hookabovecomb;
 }
 );
@@ -131,7 +131,7 @@ ref = Uhorn.alt;
 },
 {
 alignment = -1;
-pos = (602,402);
+pos = (596,402);
 ref = hookabovecomb;
 }
 );
@@ -142,7 +142,7 @@ background = {
 shapes = (
 {
 alignment = -1;
-pos = (506,399);
+pos = (500,399);
 ref = hookabovecomb;
 }
 );
@@ -154,11 +154,11 @@ ref = Uhorn.alt;
 },
 {
 alignment = -1;
-pos = (598,399);
+pos = (592,399);
 ref = hookabovecomb;
 }
 );
-width = 1342;
+width = 1336;
 },
 {
 background = {

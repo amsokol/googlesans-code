@@ -149,7 +149,7 @@ width = 1184;
 background = {
 shapes = (
 {
-pos = (581,19);
+pos = (582,19);
 ref = acutecomb;
 }
 );
@@ -161,11 +161,11 @@ ref = ohorn.alt;
 },
 {
 alignment = -1;
-pos = (565,19);
+pos = (566,19);
 ref = acutecomb;
 }
 );
-width = 1196;
+width = 1197;
 },
 {
 background = {

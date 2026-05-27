@@ -92,7 +92,7 @@ pos = (591,57);
 ref = brevecomb_hookabovecomb;
 }
 );
-width = 1129;
+width = 1093;
 },
 {
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
@@ -102,11 +102,11 @@ ref = a;
 },
 {
 alignment = -1;
-pos = (608,47);
+pos = (587,47);
 ref = brevecomb_hookabovecomb;
 }
 );
-width = 1177;
+width = 1156;
 },
 {
 background = {

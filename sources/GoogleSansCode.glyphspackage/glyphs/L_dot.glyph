@@ -81,7 +81,7 @@ pos = (595,0);
 ref = periodcentered;
 }
 );
-width = 1066;
+width = 1086;
 },
 {
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
@@ -91,11 +91,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (588,0);
+pos = (608,0);
 ref = periodcentered;
 }
 );
-width = 1132;
+width = 1152;
 },
 {
 layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";

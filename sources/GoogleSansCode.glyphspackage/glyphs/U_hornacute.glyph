@@ -158,7 +158,7 @@ width = 1268;
 background = {
 shapes = (
 {
-pos = (532,402);
+pos = (526,402);
 ref = acutecomb;
 }
 );
@@ -169,7 +169,7 @@ shapes = (
 ref = Uhorn.alt;
 },
 {
-pos = (628,402);
+pos = (622,402);
 ref = acutecomb;
 }
 );
@@ -179,7 +179,7 @@ width = 1292;
 background = {
 shapes = (
 {
-pos = (506,399);
+pos = (500,399);
 ref = acutecomb;
 }
 );
@@ -190,11 +190,11 @@ shapes = (
 ref = Uhorn.alt;
 },
 {
-pos = (620,399);
+pos = (614,399);
 ref = acutecomb;
 }
 );
-width = 1342;
+width = 1336;
 },
 {
 background = {

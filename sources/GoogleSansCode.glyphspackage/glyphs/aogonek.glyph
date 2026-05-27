@@ -278,7 +278,7 @@ nodes = (
 ref = a;
 }
 );
-width = 1129;
+width = 1125;
 },
 {
 background = {
@@ -341,7 +341,7 @@ nodes = (
 ref = a;
 }
 );
-width = 1177;
+width = 1170;
 },
 {
 layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";

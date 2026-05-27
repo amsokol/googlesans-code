@@ -79,7 +79,7 @@ pos = (1067,385);
 ref = acutecomb;
 }
 );
-width = 1592;
+width = 1547;
 },
 {
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
@@ -88,7 +88,7 @@ shapes = (
 ref = AE;
 },
 {
-pos = (962,380);
+pos = (973,380);
 ref = acutecomb;
 }
 );

@@ -90,7 +90,7 @@ pos = (582,67);
 ref = circumflexcomb_gravecomb;
 }
 );
-width = 1129;
+width = 1093;
 },
 {
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
@@ -100,11 +100,11 @@ ref = a;
 },
 {
 alignment = -1;
-pos = (611,57);
+pos = (596,57);
 ref = circumflexcomb_gravecomb;
 }
 );
-width = 1177;
+width = 1156;
 },
 {
 layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";

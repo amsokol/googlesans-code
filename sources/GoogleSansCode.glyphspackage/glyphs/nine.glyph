@@ -69,11 +69,11 @@ shapes = (
 {
 alignment = 1;
 angle = 180;
-pos = (1130,1432);
+pos = (1162,1432);
 ref = six;
 }
 );
-width = 1130;
+width = 1162;
 },
 {
 layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
@@ -81,11 +81,11 @@ shapes = (
 {
 alignment = 1;
 angle = 180;
-pos = (1162,1432);
+pos = (1170,1432);
 ref = six;
 }
 );
-width = 1162;
+width = 1170;
 },
 {
 layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";

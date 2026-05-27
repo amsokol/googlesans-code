@@ -75,7 +75,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (578,-32);
+pos = (542,-32);
 ref = dotbelowcomb;
 }
 );

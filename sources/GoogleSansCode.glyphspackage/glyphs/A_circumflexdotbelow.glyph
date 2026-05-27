@@ -75,7 +75,7 @@ shapes = (
 ref = Adotbelow;
 },
 {
-pos = (578,385);
+pos = (581,385);
 ref = circumflexcomb;
 }
 );

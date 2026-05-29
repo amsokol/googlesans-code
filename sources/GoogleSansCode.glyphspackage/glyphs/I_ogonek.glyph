@@ -75,7 +75,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (570,3);
+pos = (624,3);
 ref = ogonekcomb;
 }
 );

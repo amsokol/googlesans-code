@@ -76,7 +76,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (511,0);
+pos = (551,0);
 ref = periodcentered;
 }
 );

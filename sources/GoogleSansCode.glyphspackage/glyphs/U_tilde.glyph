@@ -75,7 +75,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (640,385);
+pos = (634,385);
 ref = tildecomb;
 }
 );

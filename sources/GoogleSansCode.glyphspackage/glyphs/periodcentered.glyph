@@ -1,5 +1,7 @@
 {
 glyphname = periodcentered;
+kernLeft = periodcentered_left;
+kernRight = periodcentered_right;
 layers = (
 {
 layerId = "68A78E10-2392-4B34-B44D-B6A5B48D0FD1";
@@ -42,44 +44,73 @@ ref = period;
 width = 1200;
 },
 {
-layerId = m005;
+background = {
+shapes = (
+{
+angle = 180;
+pos = (1023,1550);
+ref = l;
+},
+{
+angle = 180;
+pos = (532,1550);
+ref = periodcentered;
+}
+);
+};
+layerId = "88819DE9-98C6-4AB7-BD8B-9DF84621D738";
 shapes = (
 {
 pos = (0,656);
 ref = period;
 }
 );
-width = 1200;
+width = 532;
 },
 {
-layerId = m006;
+layerId = "ED70A957-8AC1-4977-BF37-207E470C4E2E";
 shapes = (
 {
 pos = (0,656);
 ref = period;
 }
 );
-width = 1200;
+width = 552;
 },
 {
-layerId = m007;
+layerId = "1DFF5E08-190B-46A4-A527-B6F0A79A5803";
 shapes = (
 {
 pos = (0,655);
 ref = period;
 }
 );
-width = 1200;
+width = 612;
 },
 {
-layerId = m008;
+background = {
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (1223,1595);
+ref = l;
+},
+{
+angle = 180;
+pos = (632,1685);
+ref = periodcentered;
+}
+);
+};
+layerId = "F632DC93-BEFD-4CC9-8CF6-AC4643A09268";
 shapes = (
 {
 pos = (0,655);
 ref = period;
 }
 );
-width = 1200;
+width = 632;
 }
 );
 unicode = 183;

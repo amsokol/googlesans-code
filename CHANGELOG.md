@@ -1,13 +1,28 @@
 # Changelog
 
 
-## Version 7.000 (2026-04-12)
+## Version 7.001 (2026-06-03)
+
+### New
+
+- added beta proportional glyphs to the Upright font and packaged them in the MONOSPACED axis. (#116)
 
 ### Changed
 
-- added beta proportional glyphs to the Italic font and packaged them in the MONOSPACED axis.
+- updated design (#102)
+- update dependencies (#107) (#111) (#114) 
+- small workflow fixes (#104) (#105)
+
+## Version 7.000 (2026-04-12)
+
+### New
+
+- added beta proportional glyphs to the Italic font and packaged them in the MONOSPACED axis. (#96)
 - added BASE table #67
 - created discrete release archive for Android (no BASE table) #91
+
+### Changed
+
 - updated locl feature for Dutch ij #34
 - updated dependencies #97 #94 #87-93 #74 #31 #41
 
